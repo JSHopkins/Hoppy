@@ -1,4 +1,4 @@
-# CCES
+# Hoppy
 Add to Calendar
 
 Add the style information to the header of the webpage. Before the </head>
